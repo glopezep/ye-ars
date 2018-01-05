@@ -1,0 +1,23 @@
+{
+  "name": "ye-ars",
+  "version": "1.0.0",
+  "description": "list a range of years from the current year or selected year",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava test.js --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/glopezep/ye-ars"
+  },
+  "keywords": [
+    "list",
+    "range",
+    "years"
+  ],
+  "author": "Guillermo Lopez",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^0.24.0"
+  }
+}
