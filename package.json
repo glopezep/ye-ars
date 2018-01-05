@@ -1,6 +1,6 @@
 {
   "name": "ye-ars",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "list a range of years from the current year or selected year",
   "main": "index.js",
   "scripts": {
